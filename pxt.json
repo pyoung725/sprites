@@ -9,7 +9,7 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "custom.md"
+        "sprites.md"
     ],
     "testFiles": [
         "test.ts"
